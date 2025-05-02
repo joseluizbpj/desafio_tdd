@@ -1,0 +1,14 @@
+C:\Users\Bento\Documents\Projetos\estudo\desafio tdd\DesafioTdd\obj\Debug\net9.0\DesafioTdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bento\Documents\Projetos\estudo\desafio tdd\DesafioTdd\obj\Debug\net9.0\DesafioTdd.AssemblyInfoInputs.cache
+C:\Users\Bento\Documents\Projetos\estudo\desafio tdd\DesafioTdd\obj\Debug\net9.0\DesafioTdd.AssemblyInfo.cs
+C:\Users\Bento\Documents\Projetos\estudo\desafio tdd\DesafioTdd\obj\Debug\net9.0\DesafioTdd.csproj.CoreCompileInputs.cache
+C:\Users\Bento\Documents\Projetos\estudo\desafio tdd\DesafioTdd\bin\Debug\net9.0\DesafioTdd.exe
+C:\Users\Bento\Documents\Projetos\estudo\desafio tdd\DesafioTdd\bin\Debug\net9.0\DesafioTdd.deps.json
+C:\Users\Bento\Documents\Projetos\estudo\desafio tdd\DesafioTdd\bin\Debug\net9.0\DesafioTdd.runtimeconfig.json
+C:\Users\Bento\Documents\Projetos\estudo\desafio tdd\DesafioTdd\bin\Debug\net9.0\DesafioTdd.dll
+C:\Users\Bento\Documents\Projetos\estudo\desafio tdd\DesafioTdd\bin\Debug\net9.0\DesafioTdd.pdb
+C:\Users\Bento\Documents\Projetos\estudo\desafio tdd\DesafioTdd\obj\Debug\net9.0\DesafioTdd.dll
+C:\Users\Bento\Documents\Projetos\estudo\desafio tdd\DesafioTdd\obj\Debug\net9.0\refint\DesafioTdd.dll
+C:\Users\Bento\Documents\Projetos\estudo\desafio tdd\DesafioTdd\obj\Debug\net9.0\DesafioTdd.pdb
+C:\Users\Bento\Documents\Projetos\estudo\desafio tdd\DesafioTdd\obj\Debug\net9.0\DesafioTdd.genruntimeconfig.cache
+C:\Users\Bento\Documents\Projetos\estudo\desafio tdd\DesafioTdd\obj\Debug\net9.0\ref\DesafioTdd.dll

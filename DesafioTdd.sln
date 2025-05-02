@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioTdd", "DesafioTdd\DesafioTdd.csproj", "{0397DC96-3F30-4A3C-8F56-3B1E729819A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioTddTestes", "DesafioTddTestes\DesafioTddTestes.csproj", "{D91FBBB1-3969-4227-8392-B84C3CD6A04E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0397DC96-3F30-4A3C-8F56-3B1E729819A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0397DC96-3F30-4A3C-8F56-3B1E729819A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0397DC96-3F30-4A3C-8F56-3B1E729819A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0397DC96-3F30-4A3C-8F56-3B1E729819A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D91FBBB1-3969-4227-8392-B84C3CD6A04E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D91FBBB1-3969-4227-8392-B84C3CD6A04E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D91FBBB1-3969-4227-8392-B84C3CD6A04E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D91FBBB1-3969-4227-8392-B84C3CD6A04E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
