@@ -1,12 +1,13 @@
-﻿using DesafioTdd;
+﻿using System.Linq.Expressions;
+using DesafioTdd;
 
 namespace DesafioTddTestes;
 
 public class UnitTest1
 {
     [Theory]
-    [InlineData (1, 2, 3)]
-    [InlineData (4, 5, 9)]
+    [InlineData(1, 2, 3)]
+    [InlineData(4, 5, 9)]
     public void TestarSomar(int num1, int num2, int resultado)
     {
         Calculadora calculadora = new Calculadora();
@@ -17,8 +18,8 @@ public class UnitTest1
     }
 
     [Theory]
-    [InlineData (1, 2, 2)]
-    [InlineData (4, 5, 20)]
+    [InlineData(1, 2, 2)]
+    [InlineData(4, 5, 20)]
     public void TestarMultiplicar(int num1, int num2, int resultado)
     {
         Calculadora calculadora = new Calculadora();
@@ -29,8 +30,8 @@ public class UnitTest1
     }
 
     [Theory]
-    [InlineData (1, 2, -1)]
-    [InlineData (4, 5, -1)]
+    [InlineData(1, 2, -1)]
+    [InlineData(4, 5, -1)]
     public void TestarSubtrair(int num1, int num2, int resultado)
     {
         Calculadora calculadora = new Calculadora();
@@ -39,10 +40,10 @@ public class UnitTest1
 
         Assert.Equal(resultado, resultadoCalculadora);
     }
-    
+
     [Theory]
-    [InlineData (4, 2, 2)]
-    [InlineData (6, 3, 2)]
+    [InlineData(4, 2, 2)]
+    [InlineData(6, 3, 2)]
     public void TestarDividir(int num1, int num2, int resultado)
     {
         Calculadora calculadora = new Calculadora();
@@ -58,5 +59,20 @@ public class UnitTest1
         Calculadora calc = new Calculadora();
 
         Assert.Throws<DivideByZeroException>(() => calc.Dividir(1, 0));
+    }
+
+    [Fact]
+    public void TestarHistorico()
+    {
+        Calculadora calc = new Calculadora();
+
+        calc.Somar(1, 2);
+        calc.Somar(3, 4);
+        calc.Somar(4, 5);
+
+        var lista = calc.ApresentarHistorico();
+
+        Assert.NotEmpty(lista);
+        Assert.Equal(3, lista.Count());
     }
 }

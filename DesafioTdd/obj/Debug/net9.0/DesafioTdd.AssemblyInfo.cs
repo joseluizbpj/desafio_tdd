@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesafioTdd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2802d8aef904a58b030fa9b7452bc325e2d0537")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesafioTdd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesafioTdd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

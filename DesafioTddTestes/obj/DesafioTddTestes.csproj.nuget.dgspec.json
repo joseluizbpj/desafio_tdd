@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bento\\Documents\\Projetos\\estudo\\desafio tdd\\DesafioTddTestes\\DesafioTddTestes.csproj": {}
+    "C:\\Users\\Bento\\Documents\\Projetos\\estudo\\desafio tdd\\desafiotddtestes\\DesafioTddTestes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bento\\Documents\\Projetos\\estudo\\desafio tdd\\DesafioTddTestes\\DesafioTddTestes.csproj": {
+    "C:\\Users\\Bento\\Documents\\Projetos\\estudo\\desafio tdd\\desafiotddtestes\\DesafioTddTestes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bento\\Documents\\Projetos\\estudo\\desafio tdd\\DesafioTddTestes\\DesafioTddTestes.csproj",
+        "projectUniqueName": "C:\\Users\\Bento\\Documents\\Projetos\\estudo\\desafio tdd\\desafiotddtestes\\DesafioTddTestes.csproj",
         "projectName": "DesafioTddTestes",
-        "projectPath": "C:\\Users\\Bento\\Documents\\Projetos\\estudo\\desafio tdd\\DesafioTddTestes\\DesafioTddTestes.csproj",
+        "projectPath": "C:\\Users\\Bento\\Documents\\Projetos\\estudo\\desafio tdd\\desafiotddtestes\\DesafioTddTestes.csproj",
         "packagesPath": "C:\\Users\\Bento\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bento\\Documents\\Projetos\\estudo\\desafio tdd\\DesafioTddTestes\\obj\\",
+        "outputPath": "C:\\Users\\Bento\\Documents\\Projetos\\estudo\\desafio tdd\\desafiotddtestes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bento\\AppData\\Roaming\\NuGet\\NuGet.Config"

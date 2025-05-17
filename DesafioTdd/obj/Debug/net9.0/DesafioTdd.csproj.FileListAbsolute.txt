@@ -12,3 +12,4 @@ C:\Users\Bento\Documents\Projetos\estudo\desafio tdd\DesafioTdd\obj\Debug\net9.0
 C:\Users\Bento\Documents\Projetos\estudo\desafio tdd\DesafioTdd\obj\Debug\net9.0\DesafioTdd.pdb
 C:\Users\Bento\Documents\Projetos\estudo\desafio tdd\DesafioTdd\obj\Debug\net9.0\DesafioTdd.genruntimeconfig.cache
 C:\Users\Bento\Documents\Projetos\estudo\desafio tdd\DesafioTdd\obj\Debug\net9.0\ref\DesafioTdd.dll
+C:\Users\Bento\Documents\Projetos\estudo\desafio tdd\DesafioTdd\obj\Debug\net9.0\DesafioTdd.sourcelink.json
